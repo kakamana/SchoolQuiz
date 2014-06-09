@@ -42,14 +42,6 @@ public class QuizCalculation {
 		    System.out.println(quizGrades.CalculateMax());
 		    System.out.println(quizGrades.CalculateAvg());
 		    System.out.println(quizGrades.CalculateStanding());
-	}
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 
 }
